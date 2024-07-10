@@ -8,7 +8,7 @@
 
 
 
-![image](https://github.com/Nagasai1525/PRODIGY_WD_05/assets/164615341/7786fdeb-6da6-4ffe-b2e0-e870e6b89655)
+![image](https://github.com/Nagasai1525/PRODIGY_WD_05/assets/164615341/0e851eda-1991-4c61-8381-09493c9202bc)
 
 
 
