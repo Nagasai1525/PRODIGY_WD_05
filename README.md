@@ -19,4 +19,4 @@
 
 
 
-<p> You can see the demonstration here &nbsp; <a href="https://nagasai1525.github.io/PRODIGY_WD_05/"> DEMO </a></p>
+<p> You can view the live example here &nbsp; <a href="https://nagasai1525.github.io/PRODIGY_WD_05/"> LIVE </a></p>
